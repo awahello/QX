@@ -22,9 +22,3 @@ https://github.com/KOP-XIAO/QuantumultX/blob/master/Scripts/resource-parser.js
 
 
 
-如觉得有帮助，可以请喝杯咖啡:
-
-
-
-<img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1geiniiv2onj30u00u0wgi.jpg" alt="IMG_5957" style="zoom:23%;" />
-
